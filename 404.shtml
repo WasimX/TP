@@ -1,0 +1,23 @@
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css"><!--
+body {
+	background-color: #424142;
+}
+--></style>
+<div align="center">
+<table rules="none" class="table1px" align="center" border="1" cellpadding="0" cellspacing="0" height="167" width="40%">
+<tbody>
+<tr>
+<td class="gradient" height="22" width="69%">
+<div align="center"><strong>Not Found!</strong></div>
+<center></center>      </td></tr>
+<tr bgcolor="black">
+<td colspan="3" height="1"><br />
+</td></tr>
+<tr>
+<td height="143">
+<div align="center">
+<p><img alt="" title="" src="../images/warning.png" height="167" width="200" />&nbsp;</p>
+<p>The page you were looking for has not been found. Please check the spelling of the page you're looking for. If you think that there should be something in replace of this page, please contact an Administrator using TP Support. </p>
+<p>Thank You.</p></div></td></tr></tbody></table></div>
+<?phpinclude_once"../incfiles/foot.php"; ?>

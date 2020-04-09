@@ -1,0 +1,24 @@
+td.topic, tr.topic {
+
+background-color: #000000;
+font-weight: bold;
+
+ text-align: center; height: 30px; color: #FFFFFF;  background: url('grad.jpg');  border-bottom: 1px solid #000000;  }
+table.thinline, table.sortable {
+
+border-collapse: collapse;
+ border: 1px solid #000000; background-color: #565656; 
+}
+
+select.input, .custombutton, .textbox {
+background: #d6d6d6;
+border-style: solid;
+border-color: #000000;
+border-width: 1px;
+ font-family: Verdana, Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+
+table.thinline, table.sortable {
+
+border-collapse: collapse;
+ border: 1px solid #000000; background: url('http://gbliss.co.uk/images/content.jpg'); 
+}
